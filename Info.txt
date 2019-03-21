@@ -1,0 +1,14 @@
+Place in Startup folder for easier use.
+Beta 1
+
+Bugs:
+
+- None Found Yet!
+
+ChangeLog:
+
+Beta 1
+- Initial Release
+
+Beta 2
+- Added Control Panel To Change Background Or Turn It Off, Squashed Old Bugs
